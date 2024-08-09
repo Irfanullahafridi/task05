@@ -8,13 +8,14 @@ body{
  
 }
 .header-section1{
-    background-color: #0d0e0bc7;
+ background-color: #0d0e0bc7;
     box-shadow: 3px 2px 12px #3e1173c7;
     display: flex;
     justify-content: space-around;
     height: 25vh;
     align-items: center;
 }
+
 #digitalImagelogo
 {
     width: 80px;
@@ -336,14 +337,14 @@ width: 40%;
 .footer{
 
     margin-top: 55px;
-    border: 2px solid red;
+    border:  solid #1d138f;
    display: flex;
    /* justify-content: center; */
    flex-direction: column;
    align-items: center;
    padding: 22px 0;
    font-weight: 900;
-   background-color: #dedfebde;
+   background-color: #c54b55de;
    width: 100vw;
 
 }
